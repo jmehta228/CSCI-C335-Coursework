@@ -1,1 +1,1 @@
-# CSCI-C335-Coursework
+# CSCI-C335 (Computer Structures) at Indiana University Bloomington
